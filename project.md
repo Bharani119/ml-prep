@@ -1,0 +1,5 @@
+- I've worked on data science tasks
+  - such as providing the insights gained from a EDA
+  - scraping the data for said EDA
+  - creating predictions based on the given data if the use case requires it
+- working with LLM's and LM's like GPT-3.5 provided by open AI
